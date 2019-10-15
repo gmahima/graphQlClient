@@ -1,2 +1,0 @@
-# graphQlClient
-Created with CodeSandbox
